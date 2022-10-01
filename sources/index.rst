@@ -8,9 +8,10 @@
 ####
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
+   :numbered:
    ./chap1
    ./chap2
    ./chap3
